@@ -1,4 +1,5 @@
-clear
+%GIT
+clear all
 
 %START (1)
 
